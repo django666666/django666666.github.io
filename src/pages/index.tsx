@@ -1,5 +1,5 @@
 import './styles/index.css'
-
+// 使用 react 18 的语法
 function IndexPage() {
   return (
     <div className="container">
